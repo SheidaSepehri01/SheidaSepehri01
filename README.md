@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SheidaSepehri01
+- 👋 Hi, I’m Sheida Sepehri
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on ...
