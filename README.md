@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Sheida Sepehri
 - 👀 I’m interested in frontend
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
 - 📫 my gmail is sheidasepehri01@gmail.com
 
 <!---
