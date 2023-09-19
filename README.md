@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sheida Sepehri
+- 👋 Hi, I’m Sheida 
 - 🌱 I’m currently learning next.js
 - 📫 my gmail is sheidasepehri01@gmail.com
 
