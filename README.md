@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sheida 
-- 🌱 I’m currently learning next.js
+- 🌱 I’m currently learning algorithems
 - 📫 my gmail is sheidasepehri01@gmail.com
 
 <!---
