@@ -20,8 +20,8 @@ Frontend Developer with 3+ years of experience building React and TypeScript app
 ## Featured Projects
 
 🚀 Investment Dashboard
-🚀 Travel Planner
-🚀 React UI Components
+🚀 gis based project
+
 
 📫 Email:sheidasepehri01@gmail.com
 💼 LinkedIn: ...
