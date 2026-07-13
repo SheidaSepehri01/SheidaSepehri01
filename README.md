@@ -28,5 +28,5 @@ SheidaSepehri01/SheidaSepehri01 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
   <a >
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,typescript,nextjs" />
+    <img src="https://skillicons.dev/icons?i=tailwind,react,typescript,nextjs,vite,redux" />
   </a>
